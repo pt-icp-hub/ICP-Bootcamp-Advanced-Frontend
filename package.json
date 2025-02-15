@@ -1,13 +1,16 @@
 {
     "name": "icp_azle_react",
     "scripts": {
-      "build": "npm run build --workspaces --if-present",
-      "prebuild": "npm run prebuild --workspaces --if-present",
-      "dev": "npm run dev --workspaces --if-present"
+        "build": "npm run build --workspaces --if-present",
+        "prebuild": "npm run prebuild --workspaces --if-present",
+        "dev": "npm run dev --workspaces --if-present"
     },
     "type": "module",
     "workspaces": [
-      "src/backend",
-      "src/frontend"
-    ]
-  }
+        "src/backend",
+        "src/frontend"
+    ],
+    "dependencies": {
+        "@dfinity/agent": "^2.3.0"
+    }
+}
