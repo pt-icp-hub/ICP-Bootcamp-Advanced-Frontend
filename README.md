@@ -11,6 +11,9 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Advanced Frontend**
 
 ---
 
+## 🎥 Overview Video
+https://2ly.link/24xdf
+
 ## 🎯 Advanced Challenges
 
 Please do challenges in order. You can submit already when finishing Challenge 2. If you can, feel free to do all challenges (by order).
